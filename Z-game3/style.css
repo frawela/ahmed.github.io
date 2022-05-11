@@ -1,0 +1,182 @@
+body{
+    background-color: #081824;
+    background-size: 100%;
+    overflow-x: hidden;
+  
+
+    
+    
+    
+}
+header {
+    width: 100%;
+    position:relative;
+    top: 0px;
+    left:  0px;
+    height: 5%;
+  }
+  
+  .home {
+    position: relative;
+    top:-24px;
+    right: -958px;
+  }
+  
+  .login{
+    position: relative ;
+      top:-24px;
+      right: -980px;
+  }
+  #s
+  {
+    position: relative;
+    top: -22px;
+    right: -938px;
+  }
+  .pho{
+      width: 100%;
+padding: 0px;
+      margin: -17px 0px 0px 739px;
+  }
+  .ti{
+      margin: 103px 367px;
+    
+    
+  }
+  .t{
+      margin: -259px -21px ;
+  }
+  dd{
+    margin: -52px -68px;
+  }
+  .ii{
+    margin:114px 0px;
+  }
+  .oo{
+    margin: -117px 850px;
+  }
+  
+   
+  
+  .Q{
+    position: relative;
+    right: -405px;
+    top: -431px;
+    margin: 0px 0px;
+  }
+  .p{
+    position: relative;
+    top: -617px;
+    right: -451px;
+  }
+  .hh{
+    position: relative;
+    top: -389px;
+    right: 80px;
+    font-size: x-large;
+  }
+  .uio{
+    position: relative;
+    right:-365px;
+    top: -354px;
+  }
+  .vp{
+    margin: -218px -10px;
+  }
+  .end{
+    margin:-180px 0px 0px 828px;
+    border: 5px; solid #081824;
+text-transform: uppercase;
+letter-spacing: 5px;
+cursor: pointer;
+border-radius: 90px;
+transition: 1s;
+font-size: 20px;
+background-color:#0818;
+background-size: 100%;
+  }
+  .fg{
+  
+    position: relative;
+    top: -101px;
+    right: -917px;
+  }
+  
+ 
+.rt{
+  position: relative;
+  top:306px;
+  right: 84px;
+}
+#asd{
+  position: relative;
+  right: -69px;
+
+}
+.footer{
+  position:relative;
+  left:34px;
+  bottom: -100px;
+  width: 100%;
+  height: 5%;
+  padding: 0px;
+  
+  
+}
+.zf{
+  position: relative;
+  left: -13px;
+
+  bottom: -34px;
+}
+
+.fa-facebook{
+  color: aliceblue;
+  position: relative;
+  top:6px;
+  right: -1072px;
+}
+.fa-twitter{
+  color: aliceblue;
+  position: relative;
+  top:6px;
+  right: -980px;
+}.fa-google{
+  color: aliceblue;
+  position: relative;
+  top:6px;
+  right:-890px;
+}
+.fa-linkedin{
+  color: aliceblue;
+  position: relative;
+  top: 6px;
+  right: -800px;
+}
+
+.fa-instgram{
+  color: aliceblue;
+  position: relative;
+  top:6px;
+  right: -989px;
+}
+table{
+  border: 4px;
+}
+.ad{
+  font-size: large;
+  margin: -664px 0px 0px 504px;
+}
+.ads{
+  margin:-350px 0px 0px 357px;
+}
+table{
+  margin:121px 0px 0px 0px;
+  width: 50%;
+  border: 1px solid #081824;
+  padding: 0px;
+  
+}
+table td{
+ padding: 10px;
+ background-color: #0818
